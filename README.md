@@ -1,6 +1,6 @@
 # BugsArtworkExtractor
 
-Command line tool for extracting high resolution album art from "Bugs!", a Korean digital music platform.
+Command line tool for extracting high resolution album art from [Bugs!](https://music.bugs.co.kr/), a Korean digital music platform.
 
 ## Requirements
 
