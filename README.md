@@ -1,4 +1,4 @@
-# AppleArtworkExtractor
+# BugsArtworkExtractor
 
 Command line tool for extracting high resolution album art from "Bugs!", a Korean digital music platform.
 
